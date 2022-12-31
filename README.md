@@ -7,7 +7,7 @@
 SIC는 8비트가 하나의 Byte로 구성되며 3개의 이어진 Byte를 Word라고 하며 최하위 바이트에 주소를 지정한다. 데이터 포맷은 Character(8bits)와 Integer(24bits)로 표현한다
 
 # 2. 생성파일
-##2.1. Intermed File
+## 2.1. Intermed File
 오브젝트 프로그램을 작성하기 위해 사용하기 위한 중간 파일로 코드와 그 주소가 저장된다.
 
 ## 2.2. Symbol Table
